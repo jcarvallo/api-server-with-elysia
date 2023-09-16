@@ -1,5 +1,4 @@
 import { Elysia } from 'elysia'
-import { userRoute } from './routers/user.route';
 
 const app = new Elysia()
     .use(import('./routers/user.route'))

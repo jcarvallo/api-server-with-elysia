@@ -1,4 +1,3 @@
-
 const userController = {
     getUser: async (req: any): Promise<any> => {
         const user = {
