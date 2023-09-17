@@ -8,6 +8,7 @@
     "allowImportingTsExtensions": true,
     "noEmit": true,
     "composite": true,
+    "resolveJsonModule": true,
     "strict": true,
     "downlevelIteration": true,
     "skipLibCheck": true,

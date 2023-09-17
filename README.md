@@ -1,5 +1,7 @@
 # api-server-with-elysia
 
+Api web server with Elysia and Clean Hexagonal Architecture
+
 To install dependencies:
 
 ```bash
